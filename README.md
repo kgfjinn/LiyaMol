@@ -1,11 +1,11 @@
 
 <div align="center">
-  <img border-radius: 15px src="https://i.imgur.com/MZDCN2M.jpeg" width="200" height="200"/>
+  <img border-radius: 15px src="https://i.imgur.com/RQiZy4a.jpeg" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="kgfjinn" src="https://img.shields.io/badge/LiyaMol-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="kgfjinn" src="https://img.shields.io/badge/KGF JINN -green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/farhan-dqz"><img title="Author" src="https://img.shields.io/badge/Author-saidali/LiyaMol?color=red&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/farhan-dqz"><img title="Author" src="https://img.shields.io/badge/Author-saidali/KGFJINN?color=red&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
